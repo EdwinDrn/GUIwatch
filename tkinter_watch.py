@@ -23,3 +23,5 @@ class EdwinButtons():
 root = Tk()
 edwin = EdwinButtons(root)
 root.mainloop()
+
+#Displays the current time using the Tkinter library.
